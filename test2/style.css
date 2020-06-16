@@ -1,0 +1,22 @@
+tr,td,table{
+    border: 1px solid black;
+}
+table {
+    border-collapse: collapse;
+}
+.a{
+    white-space:nowrap;
+}
+table.course_table tr{
+    text-align:center;
+    vertical-align:text-top;
+}
+.b{
+    vertical-align: middle;
+}
+.c::-webkit-scrollbar { 
+    width: 0 !important 
+}
+.d {
+    text-align:center;
+}
